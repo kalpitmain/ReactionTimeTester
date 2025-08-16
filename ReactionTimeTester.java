@@ -1,18 +1,4 @@
-/*
- * Project: Reaction Time Tester
- * Tech: Java 17+, Swing, OOP, File I/O
- *
- * Features:
- * - Waits a random delay before flashing "GO!"
- * - User must press a key as quickly as possible
- * - Measures reaction time in milliseconds
- * - Tracks and saves best score in user home directory
- * - Clean minimal Swing UI
- *
- * How to Run:
- *   javac ReactionTimeTester.java
- *   java ReactionTimeTester
- */
+
 
 import javax.swing.*;
 import java.awt.*;
